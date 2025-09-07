@@ -1,2 +1,2 @@
-# Personal_Dairy_App
-Dairy 
+# Personal_Diary_App
+Diairy 
